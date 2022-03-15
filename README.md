@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @oulman!
 - 👀 I’m interested in Automation, Distributed Systems, Go, Observability, and Ham Radio
-- 🌱 Lately I've been working on projects around @hashicorp tools like Vault.
 - 📫 Reach me at @oulman on Twitter
